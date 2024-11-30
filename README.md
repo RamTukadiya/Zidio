@@ -9,8 +9,9 @@ Currently, two official plugins are available:
 
 Actual Website Video
 
+I am not able to upload more than 10mb size video so this is short one.
 
-
+https://github.com/user-attachments/assets/43ed0c06-4325-4c08-a52b-5a168ce628da
 
 
 ![Screenshot 2024-11-30 231526](https://github.com/user-attachments/assets/1e27984d-0fb3-4fb2-b476-767431ab1eef)
