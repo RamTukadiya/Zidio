@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Tukadiya Ram",
+    "role": "Full Stack Developer",
+    "image": "team.png"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "role": "CTO",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 3,
+    "name": "Charlie Brown",
+    "role": "Designer",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 4,
+    "name": "Diana Prince",
+    "role": "Developer",
+    "image": "https://via.placeholder.com/150"
+  }
+]

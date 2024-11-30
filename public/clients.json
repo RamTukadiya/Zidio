@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Client 1",
+    "review": "This is a great product! Highly recommend.",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Client 2",
+    "review": "Very satisfied with the service.",
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "name": "Client 3",
+    "review": "Amazing experience. Will come back again.",
+    "rating": 5
+  }
+]

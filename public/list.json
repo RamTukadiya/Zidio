@@ -1,0 +1,39 @@
+[
+    {
+        "id" : 1,
+        "Role" : "Full Sack Devloper",
+        "technologie" : "Mern Sack",
+        "status" : "Available",
+        "salary" : "20000",
+        "Discription" : "Develop, maintain, and enhance websites with a focus on performance, scalability, and user experience. You'll work with modern web technologies to build responsive and dynamic web applications."
+    },
+
+    {
+        "id" : 2,
+        "Role" : "UI/UX",
+        "technologie" : "Figma",
+        "status" : "Available",
+        "salary" : "20000",
+        "Discription" : "Develop, maintain, and enhance websites with a focus on performance, scalability, and user experience. You'll work with modern web technologies to build responsive and dynamic web applications."
+    },
+
+    
+    {
+        "id" : 3,
+        "Role" : "Android",
+        "technologie" : "Fluter",
+        "status" : "Available",
+        "salary" : "20000",
+        "Discription" : "Develop, maintain, and enhance websites with a focus on performance, scalability, and user experience. You'll work with modern web technologies to build responsive and dynamic web applications."
+    },
+
+    
+    {
+        "id" : 4,
+        "Role" : "Web-developer",
+        "technologie" : "Html,css,js",
+        "status" : "Hired",
+        "salary" : "20000",
+        "Discription" : "Develop, maintain, and enhance websites with a focus on performance, scalability, and user experience. You'll work with modern web technologies to build responsive and dynamic web applications."
+    }
+]
